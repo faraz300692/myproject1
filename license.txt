@@ -175,5 +175,3 @@
 
 	END OF TERMS AND CONDITIONS
 
-Testing CI/CD of jenkins.
-again checking same
