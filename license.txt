@@ -175,3 +175,5 @@
 
 	END OF TERMS AND CONDITIONS
 checking CI/CD again
+
+checking s3 artifacts lets go
